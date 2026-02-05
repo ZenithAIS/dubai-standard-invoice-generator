@@ -1,0 +1,5 @@
+{
+  "name": "UAE VAT Invoice Generator & Python Tool",
+  "description": "A comprehensive tool to design UAE VAT-compliant invoices and generate corresponding Python (FPDF) code and JSON datasets for automated billing.",
+  "requestFramePermissions": []
+}
